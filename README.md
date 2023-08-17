@@ -14,7 +14,7 @@ This contract count with a test coverage of 80% and some fuzzing passing importa
 
 Governance contract that control the collaterals tokens and the fee recoleted by the protocool(not implemented yet), this contract is made by wizzard openzzepeling
 
-### security
+### Security
 
 this contract is full powered by openzzepeling and aditional have a integration test with the protocol.
 
